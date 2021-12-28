@@ -1,30 +1,18 @@
-
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hi, I'm P0sseid0n!!</h1>
-
-<p align="center">
-  <a href="https://posseidon.netlify.app/"><img src="https://img.shields.io/badge/-WebSite-87221e?style=for-the-badge&labelColor=87221e&color=87221e&logo=google-chrome&logoColor=white&link=https://posseidon.netlify.app/" /></a>
-    <a href="https://twitter.com/P0sseid0n"><img src="https://img.shields.io/badge/-Twitter-87221e?style=for-the-badge&labelColor=87221e&color=87221e&logo=twitter&logoColor=white&link=https://twitter.com/P0sseid0n" /></a>
-    <a href="https://discord.com/users/237313382657687552"><img src="https://img.shields.io/badge/-Discord-87221e?style=for-the-badge&labelColor=87221e&color=87221e&logo=discord&logoColor=white&link=https://discord.com/users/237313382657687552" /></a>
-  <a href="https://www.linkedin.com/in/matheuspossidonio/"><img src="https://img.shields.io/badge/-Linkedin-87221e?style=for-the-badge&labelColor=87221e&color=87221e&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuspossidonio/" /></a>
+<h1 align='center' style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700;"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="👋" width="32px"> Hi, I'm Archer!!</h1>
+<p align='center'>
+    <a href="https://twitter.com/l_ramoss14"><img src="imagens/twitter.png" style="border-radius:5px;" width="130" alt="Twitter"></a>
+    <a href="https://pastebin.com/Y0BbhPct"><img src="imagens/discord.png" style="border-radius:5px;" width="130" alt="Twitter"></a>
 </p>
-
-
-
-<h4 align="center"> My name is Matheus but you can call me Posseidon, I'm 17 years old and I'm studying <b> Javascript </b>.</h4>
-
+<h3 align='center'>Howdy, I'm Archer and I'm 16 yo. currently I'm learning C#.</h3>
 <p align="center">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P0sseid0n&layout=compact&title_color=fffcfc&bg_color=181617&text_color=dcd2d2" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcherEvil&layout=compact&title_color=fffcfc&bg_color=181617&text_color=dcd2d2"/>
 </p>
-
-<h2 align="center"> Technologies </h2>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/40/000000/html-5.png">
-  <img src="https://img.icons8.com/color/40/0080FF/css3.png">
-  <img src="https://img.icons8.com/color/40/000000/javascript.png">
-  <img src="https://img.icons8.com/windows/40/4caf50/node-js.png">
-  <img src="https://img.icons8.com/color/40/000000/vue-js.png">
-  <img src="https://img.icons8.com/ios/40/00758F/mysql-logo.png">
-  <img src="https://img.icons8.com/color/40/000000/mongodb.png">
-  <img src="https://img.icons8.com/color/40/000000/react-native.png">
+<h2 align='center'>Skilled in: </h2>
+    
+<p align='center'>
+    <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 </p>
