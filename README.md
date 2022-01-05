@@ -5,7 +5,7 @@
 </p>
 <h3 align='center'>Howdy, I'm Archer and I'm 16 yo. currently I'm learning C#.</h3>
 <p align="center">  
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcherEvil&layout=compact&title_color=fffcfc&bg_color=181617&text_color=dcd2d2"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcherEvi&layout=compact&title_color=fffcfc&bg_color=181617&text_color=dcd2d2"/>
 </p>
 <h2 align='center'>Skilled in: </h2>
     
