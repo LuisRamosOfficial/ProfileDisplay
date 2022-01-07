@@ -3,7 +3,7 @@
     <a href="https://twitter.com/l_ramoss14"><img src="imagens/twitter.png" style="border-radius:5px;" width="130" alt="Twitter"></a>
     <a href="https://pastebin.com/Y0BbhPct"><img src="imagens/discord.png" style="border-radius:5px;" width="130" alt="Twitter"></a>
 </p>
-<h3 align='center'>Howdy, I'm Archer and I'm 16 yo. currently I'm learning C#.</h3>
+<h3 align='center'>Howdy, I'm Archer and I'm 16 yo. currently I'm learning The .NET Framework EcoSystem.</h3>
 <span>
     <p align="center">  
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcherEvil&layout=compact&title_color=fffcfc&bg_color=181617&text_color=dcd2d2"/>
